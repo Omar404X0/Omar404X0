@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Omar404X0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Omar404X0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Omar404X0&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Omar404X0&theme=tokyonight" alt="GitHub Trophies" />
 </p>
 
 ---
