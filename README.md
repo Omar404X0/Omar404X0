@@ -7,8 +7,10 @@
 
 ### 💫 About Me
 
+* 🚀 **Full-Stack Developer & Machine Learning Engineer**
+* 🧠 **Bridging the gap** between robust software engineering and intelligent data-driven applications.
 * 🔭 **I’m currently working on:** Developing scalable full-stack web applications integrating modern React frontends with high-performance FastAPI backends.
-* 👯 **I’m looking to collaborate on:** AI-driven web platforms, bridging the gap between Machine Learning models and production-ready web interfaces.
+* 👯 **I’m looking to collaborate on:** AI-driven web platforms and production-ready web interfaces.
 * 🌱 **I’m currently learning:** Advanced MLOps, deep learning deployment, and optimizing database architectures with SQLAlchemy.
 * 💬 **Ask me about:** Python, JavaScript, React, Tailwind CSS, SQL, and building RESTful APIs.
 * ⚡ **Fun fact:** I turn complex machine learning algorithms into seamless, user-friendly web experiences.
@@ -51,14 +53,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Omar404X0&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Omar404X0&theme=dracula" alt="GitHub Trophies" />
 </p>
 
 ---
