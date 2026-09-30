@@ -45,12 +45,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Omar404X0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Omar404X0&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Omar404X0&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Omar404X0&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Omar404X0&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Omar404X0&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6" alt="Top Languages" />
 </p>
 
 ---
@@ -58,13 +58,13 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Omar404X0&theme=tokyonight" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Omar404X0&theme=dracula" alt="GitHub Trophies" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula" alt="Dev Quote" />
 </p>
 
 <br/>
