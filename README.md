@@ -5,15 +5,16 @@
 
 ---
 
-### 💫 About Me
 
-* 🚀 **Full-Stack Developer & Machine Learning Engineer**
-* 🧠 **Bridging the gap** between robust software engineering and intelligent data-driven applications.
-* 🔭 **I’m currently working on:** Developing scalable full-stack web applications integrating modern React frontends with high-performance FastAPI backends.
-* 👯 **I’m looking to collaborate on:** AI-driven web platforms and production-ready web interfaces.
-* 🌱 **I’m currently learning:** Advanced MLOps, deep learning deployment, and optimizing database architectures with SQLAlchemy.
-* 💬 **Ask me about:** Python, JavaScript, React, Tailwind CSS, SQL, and building RESTful APIs.
-* ⚡ **Fun fact:** I turn complex machine learning algorithms into seamless, user-friendly web experiences.
+
+## 👨‍💻 About Me
+
+- 🚀 Full-Stack Developer (Next.js · React · FastAPI · PostgreSQL) and AI student
+- 🛠️ **Currently building:** Electro, a deployed e-commerce platform with an AI shopping assistant, and next a product recommendation model trained on order data
+- 🤝 **Looking to collaborate on:** AI-powered web apps and production-ready interfaces
+- 🌱 **Currently learning:** MLOps, model deployment, and database optimization with SQLAlchemy
+- 💬 **Ask me about:** Python, JavaScript/TypeScript, React, Tailwind CSS, SQL, and building REST APIs
+- ⚡ **Fun fact:** I fixed a checkout race condition with a single atomic SQL statement
 
 ---
 
