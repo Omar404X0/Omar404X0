@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Omar404X0&icon=4&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0D1117" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Omar404X0.Omar404X0" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Cairo%2C_Egypt-22D3EE?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Location" />
   <img src="https://img.shields.io/badge/Open_to-Remote_Internships-A78BFA?style=for-the-badge&labelColor=0D1117" alt="Open to work" />
 </p>
