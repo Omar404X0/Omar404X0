@@ -170,7 +170,7 @@ A deployed electronics store: customers browse, search, manage a cart and buy; a
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Omar404X0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Omar404X0&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3" alt="divider" />
