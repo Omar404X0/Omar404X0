@@ -60,9 +60,6 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Omar404X0&theme=dracula" alt="GitHub Trophies" />
-</p>
 
 ---
 
