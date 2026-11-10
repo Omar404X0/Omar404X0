@@ -152,16 +152,21 @@ flowchart LR
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Omar404X0&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&icon_color=22D3EE&ring_color=7C3AED" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Omar404X0/Omar404X0/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" />
+</p>
+
+<p align="center">
   <img height="180" src="https://streak-stats.demolab.com/?user=Omar404X0&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakNum=A78BFA&sideNums=A78BFA&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar404X0&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/Omar404X0/Omar404X0/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" width="49%" />
+  <img src="https://raw.githubusercontent.com/Omar404X0/Omar404X0/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omar404X0&bg_color=0D1117&color=A78BFA&line=7C3AED&point=22D3EE&area=true&area_color=7C3AED&hide_border=true" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/Omar404X0/Omar404X0/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" width="49%" />
+  <img src="https://raw.githubusercontent.com/Omar404X0/Omar404X0/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" width="49%" />
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3" alt="divider" />
@@ -178,13 +183,6 @@ flowchart LR
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3" alt="divider" />
-
-<!-- ===================== TROPHIES ===================== -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Omar404X0&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies" />
-</p>
 
 <!-- ===================== CONTACT ===================== -->
 ## 📫 Let's Build Something
