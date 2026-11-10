@@ -31,7 +31,7 @@
 ```python
 class Omar:
     role      = ["Full-Stack Developer", "AI Student"]
-    location  = "Cairo, Egypt 🇪🇬"
+    location  = "Cairo, Egypt"
     stack     = ["Next.js", "React", "FastAPI", "PostgreSQL"]
     building  = "Electro: e-commerce + AI shopping assistant"
     next_up   = "Product recommendation model on order data"
