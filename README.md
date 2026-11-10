@@ -35,7 +35,7 @@ class Omar:
     stack     = ["Next.js", "React", "FastAPI", "PostgreSQL"]
     building  = "Electro: e-commerce + AI shopping assistant"
     next_up   = "Product recommendation model on order data"
-    learning  = ["MLOps", "Model deployment", "Docker", "SQLAlchemy tuning"]
+    learning  = ["MLOps", "Model deployment", "Redis"]
     open_to   = "Remote internships"
     ask_me    = ["Python", "JS/TS", "React", "Next.js", "SQL", "REST APIs"]
 ```
@@ -105,9 +105,10 @@ flowchart LR
 |:--|:--|
 | Electro: full-stack store + AI assistant | ![Done](https://img.shields.io/badge/Shipped-22C55E?style=flat-square&labelColor=0D1117) |
 | Product recommendation model (order data) | ![In progress](https://img.shields.io/badge/In_progress-F59E0B?style=flat-square&labelColor=0D1117) |
-| Dockerize backend & deployment pipeline | ![Learning](https://img.shields.io/badge/Learning-A78BFA?style=flat-square&labelColor=0D1117) |
+| Docker | ![Done](https://img.shields.io/badge/Done-22C55E?style=flat-square&labelColor=0D1117) |
+| Database optimization with SQLAlchemy | ![Done](https://img.shields.io/badge/Done-22C55E?style=flat-square&labelColor=0D1117) |
+| Redis (caching & fast data access) | ![Learning](https://img.shields.io/badge/Learning-A78BFA?style=flat-square&labelColor=0D1117) |
 | MLOps & model deployment | ![Learning](https://img.shields.io/badge/Learning-A78BFA?style=flat-square&labelColor=0D1117) |
-| Database optimization with SQLAlchemy | ![Learning](https://img.shields.io/badge/Learning-A78BFA?style=flat-square&labelColor=0D1117) |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:22D3EE&height=3" alt="divider" />
 
