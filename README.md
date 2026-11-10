@@ -6,22 +6,28 @@
 <!-- الفاصل -->
 <img src="./divider.svg" alt="Divider" width="100%" />
 
-<!-- تقنيات المكدس والمسار المهني بجانب بعضهما -->
+<!-- مهارات المكدس (Stack) بحجم كبير وواضح -->
 <p align="center">
-  <img src="./stack.svg" alt="Stack" width="49%">
-  <img src="./roadmap.svg" alt="Roadmap" width="49%">
+  <img src="./stack.svg" alt="Stack" width="100%">
 </p>
 
-<!-- المشروع المميز والتيرمينال بجانب بعضهما -->
+<!-- مسار التعلم أو Roadmap -->
 <p align="center">
-  <img src="./electro.svg" alt="Electro" width="49%">
-  <img src="./terminal.svg" alt="Terminal" width="49%">
+  <img src="./roadmap.svg" alt="Roadmap" width="100%">
+</p>
+
+<!-- المشروع المميز (Electro) -->
+<p align="center">
+  <img src="./electro.svg" alt="Electro" width="100%">
+</p>
+
+<!-- شاشة التيرمينال -->
+<p align="center">
+  <img src="./terminal.svg" alt="Terminal" width="100%">
 </p>
 
 <!-- الفاصل قبل النهاية -->
 <img src="./divider.svg" alt="Divider" width="100%" />
 
 <!-- الفوتر في النهاية -->
-<p align="center">
-  <img src="./footer.svg" alt="Footer" width="100%">
-</p>
+<img src="./footer.svg" alt="Footer" width="100%" />
