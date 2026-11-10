@@ -26,9 +26,9 @@
   <img src="./terminal.svg" alt="Terminal" width="100%">
 </p>
 <!-- قسم التواصل (Contact Section) بحجم كبير وواضح -->
-<p align="center">
+<!-- <p align="center">
   <img src="./contact.svg" alt="Contact Omar Elmallah" width="100%">
-</p>
+</p> -->
 
 <!-- الفاصل قبل النهاية -->
 <img src="./divider.svg" alt="Divider" width="100%" />
